@@ -1,0 +1,100 @@
+.main-row{
+    position: relative;
+    color : white;
+    padding: 0 2% 0 4%;
+    text-align: left;
+    /* width: 100vw; */
+    box-sizing : border-box;
+    /* overflow: hidden; */
+    display: block;
+}
+.zindex-test{
+    z-index:50;
+}
+.main-row-title{
+    margin: 1.5em 0;
+    font-size: 1.5vw;
+    font-weight: 400;
+    cursor: pointer;
+    display: inline-block;
+}
+.row-posters{
+    display: flex;
+    /* overflow-y: hidden; */
+    /* overflow-x: scroll; */
+    width: 100%;
+    /* box-sizing: border-box; */
+    /* padding: 20px; */
+    /* padding-right: 3%; */
+    position: relative;
+    padding-left: 0;
+    transform : translateX(0);
+    transition: transform 1s ease-in-out;
+    z-index: 20;
+   justify-content: flex-start;
+}
+.for-hover-effect{
+    position: relative;
+    opacity: 0;
+    z-index: 15;
+    transition: all 0.5s ease-in-out;
+}
+.poster-actived{
+    opacity : 1 !important;
+    transition: all 0.5s ease-in-out;
+}
+
+.row-poster {
+    /* flex: 0 0 25%; */
+    /* max-height: 200px; */
+    /* object-fit: contain; */
+    margin-right: 10px;
+    /* width: 300px; */
+    transition: transform 450ms;
+}
+.row-poster:hover{
+    transform: scale(1.08);
+    opacity: 1;
+}
+.row-posterLarge{
+    /* max-width: 200px; */
+}
+.row-posters::-webkit-scrollbar {
+    display: none;
+}
+.main-row-btn{
+    background-color: red!important;
+}
+.row-posters-wrapper{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+.sliderArrow{
+    width: 5vw !important;
+    height: 100% !important;
+    background-color: rgb(22,22,22,0.5);
+    color: white;
+    position: absolute !important;
+    top: 0;
+    bottom: 0;
+    cursor: pointer;
+    z-index: 99;
+}
+.sliderArrow.right{
+    right: -4vw;
+}
+.sliderArrow.left{
+    left: -4vw;
+}
+.hide{
+    display: none !important;
+}
+/* @media screen and (min-width:1300px) {
+    .row-poster {
+        width: 20%;
+    }
+} */
+
+

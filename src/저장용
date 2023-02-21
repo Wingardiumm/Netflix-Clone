@@ -1,0 +1,119 @@
+<div className="content-rows">
+                    <div className="content-row">
+                        <h1>지난 1년간 공개된 콘텐츠</h1>
+
+
+                        <div className="swiper thumbTiles">
+
+                            <div className="swiper-wrapper">
+
+                                <div className="swiper-slide">
+                                    <a className="thumbTile" href="#">
+                                        <img className="thumbTile-image"
+                                            src="https://occ-0-988-1360.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdBbNcFYDfDw2f4CjawQlEh2mm3OVGrr1lM_KYXIPMKYukfOUPQt5pFkRJbf8-DZstCCNzC4EUlWp1rGuiSuhh_nuJTQ1jeFMXYXPrkMRQ_xCc_BTnKNveXrU-JokxsrjSLlQWVzJlfDcMPF1pADAiyedRK3V9QNsq6Oefy7FQVaLfEcfkoVkaZDRktpm1ysNVwBj9i4gLHfuF6YpH-EU8DlEJ808aWUlkdgF7zRIVTnTW9k-S0y67zEj3a_y3cxuXivYMldWcRUcwiy0w6rxx2lPvG_cVyhSUD6vegKp6nPMDvZV6c8Yg4cHyJ991fCcxSwTn3pTjij-xfjNooDByGomQkBYvZ5axWsy3sCLhbelDsgRs6yhXWxnZeVUZStR1eXWntUq4Ucuz1W8qjXZvWH06UKxkZ4xtYUTlEX9W0OPt8CFFlhSvXK1Mdx0Mg5rjGWsFLBgFqpsH98sRDiJhVtdpg_FWxKksoryfE9Yvs3uQoWaBJ1-PSNohajClSvAFw.webp?r=b56"
+                                            alt="재벌집 막내아들" />
+                                    </a>
+                                </div>
+                                <div className="swiper-slide">
+                                    <a className="thumbTile" href="#">
+                                        <img className="thumbTile-image"
+                                            src="https://occ-0-988-1360.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABb-BoVBA5Pbpeqr7yhhPQR6jScAv0P5tBCxya5n5ljjF03EThY6G_osYfseUdaSzqH2tL5mFQ57M6CAeTw2EdmYHoA5g4u6iFI12H_bQRf_x4IiSiQ6oS5l---FQ2iedW0v3Bg03MKhD7TwP_WVsXqin6Mfk6gZJGKlMDXv6QkDIYGQWWNnIAKz_BqQL1NU.jpg?r=973"
+                                            alt="웬즈데이" />
+                                    </a>
+                                </div>
+                                <div className="swiper-slide">
+                                    <a className="thumbTile" href="#">
+                                        <img className="thumbTile-image"
+                                            src="https://occ-0-988-1360.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdltYNRo2YseotKTHbXqYUNAxjam19Gk3sdQUguDYfnQvibUqNujoYhkouwSbT5vhjAU7Hfr0SceU3klBXOPCINS0aKIoHxxv7AFkVO3OH42yuOeGo1NLF8oAwOX51xwIOrKMKQV57n3HRBFH6r39sp_jmVIfRDDfcQUyN73T8cewc80jX2fv32dN6JfHaYpXh62lS8MsMZF-qlpaPeNpCS4L7Sgr1h6OikNunKh6nfMPp-66IHOaIhEzN2zqZFOmH7s2bHbRP_CFPOTOVYPmvB759MT9_JDmi5Wbfs.webp?r=4bb"
+                                            alt="릭앤모티" />
+                                    </a>
+                                </div>
+                                <div className="swiper-slide">
+                                    <a className="thumbTile" href="#">
+                                        <img className="thumbTile-image"
+                                            src="https://occ-0-988-1360.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZtjldWF-GgRs80HS1hgUhYgq2cSjVnGYW8ZnfpnabsQ718WpANy8e6TyLHbjSx-_tK_VO8DRcpZcLBcHfEN_zMe9rIF3jdqqw4V1BRb6jXIc9cBaItcx4zzCNnpeSp2Q5EX9KXq9gOhsAgxLngFoytwlwcyCtj8t3qQFSS636Rm7fuUKLIycxKnkKVnbHufQ9kJ7QLee3fkQ67lPBZovjsQzE0JKH8EGOJNXuzYCM5g3YfeTS8uq6Wp78oQtjO3wtNrrBHmXb-7AkSRerJXPpybXc21fvdn7h8XlW8udh8FVRun1c5lcaOs6XS7rX6mOqMvS9lnc5BlicMO9ro2P8_vO7kYbK128G9II2M7IclGdoazZhN-LR4-4Jx6ogp_KHmkCjR_ymkWFzqGcUQs14o2COLVHvPNX0RWalavh2HRudo3uZShTSrlDjAEr7iABrbJveLH.webp?r=af5"
+                                            alt="체인소맨" />
+                                    </a>
+                                </div>
+                                <div className="swiper-slide">
+                                    <a className="thumbTile" href="#">
+                                        <img className="thumbTile-image"
+                                            src="https://occ-0-988-1360.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV2QFNjBOfOrbxHtyRKW8R7ape64zA4QKpfg0hycez72fByXB4oPXcK2jCrP5HKyD4p4gG-Nq-CPCDpFMouzoXG3L0DW9Aic_393SnWcW8DlF7odkIhEgi2yCoWDFBbQOey1.jpg?r=14d"
+                                            alt="피키 블라인더스" />
+                                    </a>
+                                </div>
+                                <div className="swiper-slide">
+                                    <a className="thumbTile" href="#">
+                                        <img className="thumbTile-image"
+                                            src="https://occ-0-988-1360.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV2QFNjBOfOrbxHtyRKW8R7ape64zA4QKpfg0hycez72fByXB4oPXcK2jCrP5HKyD4p4gG-Nq-CPCDpFMouzoXG3L0DW9Aic_393SnWcW8DlF7odkIhEgi2yCoWDFBbQOey1.jpg?r=14d"
+                                            alt="피키 블라인더스" />
+                                    </a>
+                                </div>
+                                <div className="swiper-slide">
+                                    <a className="thumbTile" href="#">
+                                        <img className="thumbTile-image"
+                                            src="https://occ-0-988-1360.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV2QFNjBOfOrbxHtyRKW8R7ape64zA4QKpfg0hycez72fByXB4oPXcK2jCrP5HKyD4p4gG-Nq-CPCDpFMouzoXG3L0DW9Aic_393SnWcW8DlF7odkIhEgi2yCoWDFBbQOey1.jpg?r=14d"
+                                            alt="피키 블라인더스" />
+                                    </a>
+                                </div>
+                                <div className="swiper-slide">
+                                    <a className="thumbTile" href="#">
+                                        <img className="thumbTile-image"
+                                            src="https://occ-0-988-1360.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV2QFNjBOfOrbxHtyRKW8R7ape64zA4QKpfg0hycez72fByXB4oPXcK2jCrP5HKyD4p4gG-Nq-CPCDpFMouzoXG3L0DW9Aic_393SnWcW8DlF7odkIhEgi2yCoWDFBbQOey1.jpg?r=14d"
+                                            alt="피키 블라인더스" />
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div className="swiper-button-prev"></div>
+                            <div className="swiper-button-next"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer className="main-footer">
+                <div className="main-footer-wraper">
+                    <div className="footer-site-link">
+                        <i className="fa-brands fa-facebook-f fa-2x"></i>
+                        <i className="fa-brands fa-instagram fa-2x"></i>
+                        <i className="fa-brands fa-twitter fa-2x"></i>
+                        <i className="fa-brands fa-square-youtube fa-2x"></i>
+                    </div>
+                    <div className="footer-service-link">
+                        <ul>
+                            <li><a href="#">화면 해설</a></li>
+                            <li><a href="#">고객 센터</a></li>
+                            <li><a href="#">기프트카드</a></li>
+                            <li><a href="#">미디어 센터</a></li>
+                            <li><a href="#">투자 정보(IR)</a></li>
+                            <li><a href="#">입사 정보</a></li>
+                            <li><a href="#">이용 약관</a></li>
+                            <li><a href="#">개인정보</a></li>
+                            <li><a href="#">법적 고지</a></li>
+                            <li><a href="#">쿠키 설정</a></li>
+                            <li><a href="#">회사 정보</a></li>
+                            <li><a href="#">문의하기</a></li>
+                        </ul>
+                    </div>
+                    <div className="footer-service-code"><a href="#">서비스 코드</a></div>
+                    <div className="footer-address">
+                        넷플릭스서비시스코리아 유한회사 통신판매업신고번호: 제2018-서울종로-0426호 전화번호: 080-001-9587
+                        <br />
+                        대표: 레지널드 숀 톰프슨
+                        <br />
+                        이메일 주소: korea@netflix.com
+                        <br />
+                        주소: 대한민국 서울특별시 종로구 우정국로 26, 센트로폴리스 A동 20층 우편번호 03161
+                        <br />
+                        사업자등록번호: 165-87-00119
+                        <br />
+                        클라우드 호스팅: Amazon Web Services Inc.
+                        <br />
+                        <a href="#">공정거래위원회 웹사이트</a>
+                    </div>
+                </div>
+            </footer>
+
+
+
+            style= {{ transform: `translate3d(-500px, 0, 0)` }}
