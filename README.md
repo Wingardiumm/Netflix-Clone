@@ -1,6 +1,10 @@
 
 # 넷플릭스 클론코딩
 
+TMDB open api 를 사용하여 넷플릭스 클론코딩 해봤습니다.
+
+기본적인 리액트 활용법을 익히기위해 6주간 천천히 진행하였고 기타 라이브러리는 사용하지 않았습니다.
+
 ## 사용기술
 
 React
@@ -21,7 +25,6 @@ https://user-images.githubusercontent.com/123756995/220288660-2e089da9-2a1e-468f
 
 ### 슬라이드
 
-라이브러리 사용 하지 않고 만들었음
 
 https://user-images.githubusercontent.com/123756995/220290052-8be85ed3-7228-4079-8592-d453ab840747.mp4
 
