@@ -1,4 +1,12 @@
 
+https://wingardiumm.github.io/
+ID : abcd
+PASSWORD : 1234
+
+
+
+
+
 # 넷플릭스 클론코딩 (NETFLIX CLONECODING)
 
 TMDB open api 를 사용하여 넷플릭스 클론코딩 해봤습니다.
