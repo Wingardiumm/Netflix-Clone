@@ -1,8 +1,8 @@
-~~
-https://wingardiumm.github.io/
-ID : abcd
-PASSWORD : 1234
-~~
+
+~~https://wingardiumm.github.io/~~
+~~ID : abcd~~
+~~PASSWORD : 1234~~
+-- 클론 사이트 배포는 보안상 위험한 사이트로 인식
 
 
 
